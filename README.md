@@ -5,7 +5,7 @@
 
 ### 🔹第 1 章：入门准备 & Hello World
 
-#### 1.1 什么是 Three.js？能做什么？
+#### 1.1 [什么是 Three.js？能做什么？](./docs/01/00/README.md)
 
 [* WebGL 和 Three.js 的区别](./docs/01/01/README.md)
 * 示例项目展示
